@@ -1,0 +1,20 @@
+data collection
+model building
+ML Ops
+Deployment(GCP)
+Potato disease:Early Blight:fungus
+Late blight:micro organisms
+detect disease:CNN:convolutional neural network: app
+collect leaf:1)Data cleaning and preprocessing:dataset and data augmentation
+    2)Model Building:CNN
+3)Tf serving:fast API
+4)website:reactjs
+5)Tf lite model:Quantization:reduce size of memory
+6)deploy to GCP
+7)react native
+model building:tensorflow,CNN,Data augmentation,Tf dataset
+backend:tf serving fast API
+Model optimization:Quantization Tensorflow lite
+frontend:Reactjs react native gcp for deploy
+python:14 videos
+deep learning: video no 24 watch for CNN 
